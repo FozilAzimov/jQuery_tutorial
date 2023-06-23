@@ -8,7 +8,7 @@ $(document).ready(function () {
   })
 
   $('.btn').click(function () {
-    var f = $(this).parents().find('h3');
+    var f = $(this).parents().find('h2');
     console.log(f);
   })
 

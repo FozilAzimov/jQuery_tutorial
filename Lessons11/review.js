@@ -1,7 +1,6 @@
-// Mavzu: jQuery Traversing;
+// Mavzu: jQuery Traversing - davomi;
 
 // Asosiy functions:
 
-// - parent(),
-// - parents(),
-// - parentsUntil(selector)
+// - children(),
+// - find();
