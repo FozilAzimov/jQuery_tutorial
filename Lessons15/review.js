@@ -3,7 +3,9 @@
 // Asosiy functions:
 
 // - click(),
-// - dubleClick(),
+// - dblclick(),
 // - hover(),
 // - mauseover(),
-// - mauseleve(),
+// - mauseleave(),
+// - mausemove(),
+// - mauseout();
