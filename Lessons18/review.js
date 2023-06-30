@@ -1,11 +1,6 @@
-// Mavzu: jQuery form event;
+// Mavzu: JSON;
 
 // Asosiy functions:
 
-// - focus(),
-// - blur(),
-// - change(),
-// - each(),
-// - val(),
-// - select(),
-// - submit(),
+// - stringify(name, cheklash, formatr),
+// - parse(name);
